@@ -1,0 +1,5 @@
+[
+  { "id": "inv_1001", "client": "Carter LLC", "amount": 1200, "status": "Paid", "date": "2025-06-05" },
+  { "id": "inv_1002", "client": "Vision Labs", "amount": 850, "status": "Open", "date": "2025-06-08" },
+  { "id": "inv_1003", "client": "Nova Studio", "amount": 640, "status": "Overdue", "date": "2025-06-11" }
+]

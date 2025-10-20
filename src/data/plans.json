@@ -1,0 +1,30 @@
+[
+  {
+    "id": "pro",
+    "title": "Pro Plan",
+    "price": 29,
+    "interval": "month",
+    "features": [
+      "Advanced analytics dashboard",
+      "AI-powered client assistant",
+      "Stripe billing integration",
+      "Custom branding & themes"
+    ],
+    "highlight": true
+  },
+  {
+    "id": "enterprise",
+    "title": "Enterprise Plan",
+    "price": 99,
+    "interval": "month",
+    "features": [
+      "Everything in Pro",
+      "Unlimited team members",
+      "Dedicated cloud workspace",
+      "24/7 priority support",
+      "White-label license for reselling"
+    ],
+    "highlight": false
+  }
+]
+

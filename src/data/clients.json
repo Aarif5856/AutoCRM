@@ -1,0 +1,5 @@
+[
+  { "id": "c1", "name": "John Carter", "email": "john@carter.io", "company": "Carter LLC", "status": "Active" },
+  { "id": "c2", "name": "Sarah Lee", "email": "sarah@vision.com", "company": "Vision Labs", "status": "Pending" },
+  { "id": "c3", "name": "David Kim", "email": "david@nova.app", "company": "Nova Studio", "status": "Inactive" }
+]

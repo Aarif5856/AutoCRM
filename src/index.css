@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+html, body {
+  scroll-behavior: smooth;
+  background-color: #F9FAFB;
+}
+
+body {
+  scroll-padding-top: 80px; /* offset for fixed header */
+}
+
+/* 🌟 Glow animation when scrolled to Pricing section */
+@keyframes glowPulse {
+  0% {
+    box-shadow: 0 0 0px 0 rgba(99, 102, 241, 0.5);
+  }
+  50% {
+    box-shadow: 0 0 25px 5px rgba(99, 102, 241, 0.8);
+  }
+  100% {
+    box-shadow: 0 0 0px 0 rgba(99, 102, 241, 0.5);
+  }
+}
+
+.highlight-glow {
+  animation: glowPulse 1.5s ease-in-out;
+  border-radius: 1rem;
+  transition: all 0.3s ease;
+}
+
+section, footer {
+  transition: all 0.7s ease-in-out;
+}
+
+
