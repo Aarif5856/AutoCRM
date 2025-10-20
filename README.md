@@ -1,3 +1,5 @@
+![AutoCRM Preview](public/preview.png)
+
 # 🚀 AutoCRM — AI-Driven Client & Invoice Management Dashboard  
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Aarif5856/AutoCRM)
